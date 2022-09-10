@@ -1,0 +1,16 @@
+.deleterev{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    
+}
+
+.deleterev:empty{
+    display: none;
+}
+
+.delrev{
+    display: inline;
+}
+
